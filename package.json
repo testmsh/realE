@@ -2,13 +2,13 @@
   "name": "gitpro",
   "version": "1.0.0",
   "description": "This is for Iraq and Middle East",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/testmsh/realE.git"
+    "url": "git+https://github.com/testmsh/realE.git"
   },
   "keywords": [],
   "author": "",
